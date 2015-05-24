@@ -1,4 +1,6 @@
-twitch-tools
+Tweek
 ============
 
-Twitch Tools for WordPress
+Twitch tools for WordPress.
+
+TODO: Pretty much everything.
